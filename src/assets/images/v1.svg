@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.5" height="87.823" viewBox="0 0 86.5 87.823">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ececec"/>
+      <stop offset="1" stop-color="#6f6f6e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.587" y1="0.993" x2="0.413" y2="0.008" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d9d9d9"/>
+      <stop offset="1" stop-color="#575756"/>
+    </linearGradient>
+  </defs>
+  <g id="_5cd87c5bc46c91557691483" data-name="5cd87c5bc46c91557691483" transform="translate(-54.6 -47.2)">
+    <g id="Group_2935" data-name="Group 2935" transform="translate(55.878 51.476)">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="41.523" cy="41.523" r="41.523" transform="translate(0)" stroke="#b1b1b1" stroke-width="1" fill="url(#linear-gradient)"/>
+      <path id="Path_120" data-name="Path 120" d="M151.7,151.1" transform="translate(-110.177 -109.577)" fill="#fff" stroke="#b1b1b1" stroke-width="1"/>
+    </g>
+    <g id="Group_2936" data-name="Group 2936" transform="translate(64.65 60.248)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="32.751" cy="32.751" r="32.751" stroke="#fff" stroke-width="1" fill="url(#linear-gradient-2)"/>
+      <path id="Path_121" data-name="Path 121" d="M151.7,151.1" transform="translate(-118.949 -118.349)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+    <g id="Group_2937" data-name="Group 2937" transform="translate(70.998 66.595)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="26.404" cy="26.404" r="26.404" transform="translate(0 0)" fill="#f8f8f8"/>
+      <path id="Path_122" data-name="Path 122" d="M151.7,151.1" transform="translate(-125.296 -124.696)" fill="#f8f8f8"/>
+    </g>
+    <g id="Group_2938" data-name="Group 2938" transform="translate(117.943 52.622)">
+      <path id="Path_123" data-name="Path 123" d="M211.7,59.5l8.6,8.6L206.94,81.452l-8.64-8.6Z" transform="translate(-198.3 -59.5)" fill="gray"/>
+      <path id="Path_124" data-name="Path 124" d="M223.3,84.4" transform="translate(-212.28 -73.424)" fill="gray"/>
+    </g>
+    <path id="Path_125" data-name="Path 125" d="M143,47.2" transform="translate(-49.433)" fill="none" stroke="#868686" stroke-width="1.133"/>
+    <path id="Path_126" data-name="Path 126" d="M213.3,200.4" transform="translate(-88.745 -85.67)" fill="none" stroke="#868686" stroke-width="1.133"/>
+    <path id="Path_127" data-name="Path 127" d="M168.6,56.9" transform="translate(-63.749 -5.424)" fill="none" stroke="#868686" stroke-width="1.133" fill-rule="evenodd"/>
+    <g id="Group_2939" data-name="Group 2939" transform="translate(117.943 52.622)">
+      <line id="Line_42" data-name="Line 42" y1="13.356" x2="13.4" transform="translate(0)" fill="gray"/>
+      <line id="Line_43" data-name="Line 43" y1="13.356" x2="13.4" transform="translate(0)" fill="none" stroke="#b1b1b1" stroke-width="1"/>
+    </g>
+    <line id="Line_44" data-name="Line 44" x1="13.356" y2="13.356" transform="translate(126.583 61.217)" fill="none" stroke="#575756" stroke-width="1"/>
+    <g id="Group_2940" data-name="Group 2940" transform="translate(119.486 51.432)">
+      <path id="Path_128" data-name="Path 128" d="M222.914,78.972c-4.893-10.4-11.24-17.456-21.114-22.172l21.07.044Z" transform="translate(-201.8 -56.8)" fill="gray" fill-rule="evenodd"/>
+      <path id="Path_129" data-name="Path 129" d="M222.914,78.972c-4.893-10.4-11.24-17.456-21.114-22.172l21.07.044Z" transform="translate(-201.8 -56.8)" fill="none" stroke="#b1b1b1" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <path id="Path_130" data-name="Path 130" d="M54.6,137.623A40.042,40.042,0,0,1,55.922,127l83,.176a40.274,40.274,0,0,1,1.278,10.447,38.28,38.28,0,0,1-1.631,11.681l-82.385-.088A38.831,38.831,0,0,1,54.6,137.623Z" transform="translate(0 -44.624)" fill="#28367b" fill-rule="evenodd"/>
+    <g id="Group_2941" data-name="Group 2941" transform="translate(59.537 88.723)">
+      <path id="Path_131" data-name="Path 131" d="M149.646,146.557a2.881,2.881,0,0,1-2.777,2.909h-1.763a.3.3,0,0,1-.309-.309v-5.73a.3.3,0,0,1,.309-.309h1.719V141.4H137.7v1.719h1.807a.4.4,0,0,1,.4.4v5.73a.208.208,0,0,1-.22.22H137.7v1.719h13.665v-4.672l-1.719.044Z" transform="translate(-106.007 -141.4)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_132" data-name="Path 132" d="M165.3,143.307a.229.229,0,0,0-.176-.088H163.1V141.5h9.786v1.719h-1.807a.208.208,0,0,0-.22.22l2.909,4.937,2.777-5.025a.117.117,0,0,0-.132-.132h-1.631V141.5h6.876v1.719h-1.984a.265.265,0,0,0-.176.044l-4.364,8.023h-5.378l-4.452-7.978Z" transform="translate(-120.21 -141.456)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_133" data-name="Path 133" d="M68,143.307a.229.229,0,0,0-.176-.088H65.8V141.5h9.83v1.719H73.823a.208.208,0,0,0-.22.22l2.909,4.937,2.777-5.025a.141.141,0,0,0-.132-.132H77.525V141.5H84.4v1.719h-1.94a.265.265,0,0,0-.176.044l-4.364,8.023H72.588L68,143.307Z" transform="translate(-65.8 -141.456)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_134" data-name="Path 134" d="M105.5,146.337c0-2.733,3.086-4.937,6.921-4.937,3.791,0,6.921,2.2,6.921,4.937s-3.086,4.937-6.921,4.937-6.921-2.2-6.921-4.937Zm8.2,2.821a4.265,4.265,0,0,0,.97-2.821,4.449,4.449,0,0,0-.705-2.513,1.86,1.86,0,0,0-1.455-.705,1.964,1.964,0,0,0-1.278.529.44.44,0,0,0-.176.22,4.13,4.13,0,0,0-.705,2.513,4.424,4.424,0,0,0,.926,2.733,1.875,1.875,0,0,0,1.278.529,2.219,2.219,0,0,0,1.146-.485Z" transform="translate(-88 -141.4)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_135" data-name="Path 135" d="M202.9,146.337c0-2.733,3.086-4.937,6.921-4.937s6.921,2.2,6.921,4.937-3.086,4.937-6.921,4.937c-3.835-.044-6.921-2.248-6.921-4.937Zm8.2,2.777a4.265,4.265,0,0,0,.97-2.821,4.449,4.449,0,0,0-.705-2.513,1.86,1.86,0,0,0-1.455-.705,1.963,1.963,0,0,0-1.278.529.44.44,0,0,0-.176.22,4.13,4.13,0,0,0-.705,2.513,4.424,4.424,0,0,0,.926,2.733,1.793,1.793,0,0,0,1.278.529,1.679,1.679,0,0,0,1.146-.485Z" transform="translate(-142.466 -141.4)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
