@@ -582,7 +582,7 @@ export default {
       color:#fff;
       p{
         text-align: center;
-        color: #ccc;
+        color: #fff;
       }
       .checks{
         display: flex;

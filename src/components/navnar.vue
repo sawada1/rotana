@@ -120,7 +120,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #ccc;
+  background-color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.269);
   padding: 30px;
   width: 95%;
@@ -141,9 +141,9 @@ export default {
 
   .bar{
     color: #fff;
-    padding: 30px;
+    padding: 20px;
     border-radius: 10px;
-    font-size: 20px;
+    font-size: 25px;
     background-color: var(--main-color);
     cursor: pointer;
     display: none;
